@@ -1,0 +1,7 @@
+#As shown in fig. 6
+>KK10
+KRWIILGLNK
+>CR1
+KRWIIMGLNK
+>CR2
+KRWIIIGLHK

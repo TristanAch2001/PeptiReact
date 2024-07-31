@@ -1,0 +1,7 @@
+#Cross reactivity as shown in Figure 2
+>DENV1
+GTSGSPIVNR
+>DENV2
+GTSGSPIVDR
+>DENV3
+GTSGSPIINR

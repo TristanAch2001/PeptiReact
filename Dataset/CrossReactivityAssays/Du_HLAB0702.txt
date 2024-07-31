@@ -1,0 +1,7 @@
+#As shown in fig. 5
+>RL9
+RPMTYKGAL
+>C1
+RPTMYKAAL
+>C2
+RPMTYKAAV

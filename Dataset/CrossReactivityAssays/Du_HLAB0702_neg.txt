@@ -1,0 +1,7 @@
+#As shown in fig. 5
+>RL10
+RPAEPVPLQL
+>NC1
+RPTEPVPFQL
+>NC2
+RPAEPVPFQL

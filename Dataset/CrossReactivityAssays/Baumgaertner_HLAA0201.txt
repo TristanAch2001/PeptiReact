@@ -1,0 +1,20 @@
+# All of these positive in one of the groups, as said in paper
+>MART1
+EAAGIGILTV
+>3
+EAAGIGILTA
+>4
+EAAGIGILTI
+>5
+EAAGIGILTM
+>6
+ELAGIGILTV
+>10
+ELAGIGILTL
+>11
+ELAGIGILTA
+>14
+EMAGIGILTL
+>17
+EMAGIGILTM
+

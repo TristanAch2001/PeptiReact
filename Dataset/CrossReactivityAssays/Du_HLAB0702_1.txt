@@ -1,0 +1,5 @@
+#As shown in fig. 5
+>RFL9
+RPMTFKGAL
+>C1
+RPMTYKGAL
